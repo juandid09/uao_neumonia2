@@ -90,7 +90,7 @@ tensorflow==2.10.*
 ## Instalación
 
 Clona el repositorio: 
-git clone https://github.com/juandid09/uao_neumonia.git
+git clone https://github.com/juandid09/uao_neumonia2.git
 
 Instala las dependencias:
 Asegúrate de tener Python 3.8 y tener el pip instalado y habilitado 
