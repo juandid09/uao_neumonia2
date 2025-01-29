@@ -43,6 +43,7 @@ cabe aclarar que a la estructura hace referencia solo a la parte funcional del p
 
 El codigo esta con rutas /app/src al ejecutarse debido a la estructura de docker, si requiere correr el programa de manera nativa tendria que bajar el proyecto y quitar /app/ y dejar src esto resolvería cualquier conflicto dado que encontraría los archivos desde el disco local y no desde la imagen de docker. si ejecutar una imagen de doket no tendría ningún problema. 
 tambien tener en cuenta incluir el archivo .h5
+la carpeta donde se guardan los archivos se general al ejecutar el proyecto de igual forma se mantiene validando se se debe crear, es decir si no existe la crea y si existe la utiliza para guardar los archivos pdf y csv
 ## Requisitos
 
 Este proyecto requiere Python 3.x y las siguientes bibliotecas. Puedes instalarlas usando el archivo requirements.txt
