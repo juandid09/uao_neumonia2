@@ -44,23 +44,43 @@ cabe aclarar que a la estructura hace referencia solo a la parte funcional del p
 El codigo esta con rutas /app/src al ejecutarse debido a la estructura de docker, si requiere correr el programa de manera nativa tendria que bajar el proyecto y quitar /app/ y dejar src esto resolvería cualquier conflicto dado que encontraría los archivos desde el disco local y no desde la imagen de docker. si ejecutar una imagen de doket no tendría ningún problema. 
 tambien tener en cuenta incluir el archivo .h5
 la carpeta donde se guardan los archivos se general al ejecutar el proyecto de igual forma se mantiene validando se se debe crear, es decir si no existe la crea y si existe la utiliza para guardar los archivos pdf y csv
+
+## Estructura del Proyecto
+Archivo Docker: https://drive.google.com/file/d/1chGgNVcmmttn91aTSeMWXxskpGCMoboR/view
+Tutorial: https://drive.google.com/file/d/1VQizObXTqtse7I4XWPI4w33etj-lkmSv/view?usp=sharing
+Repositorio GitHub: https://github.com/juandid09/uao_neumonia2/tree/main?tab=readme-ov-file
+Documentación: https://drive.google.com/file/d/1xcLFAbHaVWNOEPa4f1vJ2yVC8F8fQCbV/view?usp=sharing
+
 ## Requisitos
 
 Este proyecto requiere Python 3.x y las siguientes bibliotecas. Puedes instalarlas usando el archivo requirements.txt
 
 tensorflow==2.10.*
+
  pyautogui==0.9.52 
+ 
  pillow==8.4.0 
+ 
  tkcap==0.0.4 
+ 
  pydicom==2.2.2 
+ 
  img2pdf==0.4.4
+ 
   opencv-python==4.5.5.64 
+  
   matplotlib==3.5.1 
+  
   pandas==1.3.5 
+  
   python-xlib==0.31 
+  
   protobuf==3.19.6 
+  
   keras==2.10.* 
+  
   pytest==7.2.2
+  
   se pueden instalar las dependencias utilizando: pip install -r requirements.txt o si crea un entorno virtual en su editor de código seria seleccionando el mismo. 
 
 ## Instalación
