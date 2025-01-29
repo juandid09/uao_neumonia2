@@ -45,11 +45,15 @@ El codigo esta con rutas /app/src al ejecutarse debido a la estructura de docker
 tambien tener en cuenta incluir el archivo .h5
 la carpeta donde se guardan los archivos se general al ejecutar el proyecto de igual forma se mantiene validando se se debe crear, es decir si no existe la crea y si existe la utiliza para guardar los archivos pdf y csv
 
-## Estructura del Proyecto
+## Recursos del Proyecto
 Archivo Docker: https://drive.google.com/file/d/1chGgNVcmmttn91aTSeMWXxskpGCMoboR/view
+
 Tutorial: https://drive.google.com/file/d/1VQizObXTqtse7I4XWPI4w33etj-lkmSv/view?usp=sharing
+
 Repositorio GitHub: https://github.com/juandid09/uao_neumonia2/tree/main?tab=readme-ov-file
+
 Documentación: https://drive.google.com/file/d/1xcLFAbHaVWNOEPa4f1vJ2yVC8F8fQCbV/view?usp=sharing
+
 
 ## Requisitos
 
