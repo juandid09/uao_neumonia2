@@ -52,7 +52,7 @@ Tutorial: https://drive.google.com/file/d/1VQizObXTqtse7I4XWPI4w33etj-lkmSv/view
 
 Repositorio GitHub: https://github.com/juandid09/uao_neumonia2/tree/main?tab=readme-ov-file
 
-Documentación: https://drive.google.com/file/d/1xcLFAbHaVWNOEPa4f1vJ2yVC8F8fQCbV/view?usp=sharing
+Documentación: https://drive.google.com/file/d/14oyb4NtME74qY13t2nDZDT-qGnz2TOGf/view?usp=drive_link
 
 
 ## Requisitos
