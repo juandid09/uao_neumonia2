@@ -1,7 +1,7 @@
 # Proyecto UAO Neumonía!
 
 Hola, en este proyecto se desarrollo una herramienta de diagnóstico médico que utiliza técnicas de aprendizaje profundo para detectar neumonía en imágenes radiográficas. La aplicación permite cargar imágenes, tanto en formato DICOM como JPG, procesarlas y generar predicciones sobre si la neumonía es de tipo bacteriana, viral o si no está presente. Además, muestra un mapa de calor heatmap para resaltar las áreas de la imagen relevantes para la predicción.
-
+  
 
 ## Estructura del Proyecto
 
